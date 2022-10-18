@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## I'am Michael Mogolo
+## I'm Michael Mogolo
 
 <!--
 **michaelmogolo/michaelmogolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **my first and second project open source**
+- 🔭 I’m currently working on **my first and second open-source projects**
 - 🌱 I’m currently learning **Firebase**
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MichaelMogolo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-mogolo-347a99201/)
 
