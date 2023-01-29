@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MichaelMogolo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-mogolo-347a99201/)
 
 <div> 
-<img src='./assets/img/banner-fullstack.gif' align="center" width="100%">
+<img src='./assets/img/giphy.gif' align="center" width="100%">
 </div>
 
 ## My favorite tools and technologies ⚙️
